@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+large_files/atr-surface.csv filter=lfs diff=lfs merge=lfs -text
+large_files/graph_generating.ipynb filter=lfs diff=lfs merge=lfs -text
