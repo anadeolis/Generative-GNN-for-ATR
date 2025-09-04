@@ -1,6 +1,6 @@
 # Generative-GNN-for-ATR
 
-This repository contains my end-to-end workflow for exploring **graph reliability** using
+Hello! This repository contains my end-to-end workflow for researching **graph reliability** at Rice University this past summer using
 a **conditional generative graph neural network (VAE)**. It covers the full pipeline:
 from generating graphs and computing reliability metrics, to training a model that can
 generate **new graphs of arbitrary size** while controlling for reliability properties.
